@@ -1,0 +1,12 @@
+{
+  "vmrunPath": "C:\\Program Files (x86)\\VMware\\VMware Workstation\\vmrun.exe",
+  "logFolder": "logs",
+  "reportFolder": "reports",
+  "vms": [
+    {
+      "name": "DC01",
+      "vmxPath": "C:\\Users\\dell\\Documents\\Virtual Machines\\DC01\\DC01.vmx",
+      "encrypted": false
+    }
+  ]
+}
