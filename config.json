@@ -1,3 +1,4 @@
+
 {
   "vmrunPath": "C:\\Program Files (x86)\\VMware\\VMware Workstation\\vmrun.exe",
   "logFolder": "logs",
@@ -7,6 +8,11 @@
       "name": "DC01",
       "vmxPath": "C:\\Users\\dell\\Documents\\Virtual Machines\\DC01\\DC01.vmx",
       "encrypted": false
+    },
+    {
+      "name": "CLIENT01",
+      "vmxPath": "C:\\Users\\dell\\Documents\\Virtual Machines\\CLIENT01\\CLIENT01.vmx",
+      "encrypted": true
     }
   ]
 }
